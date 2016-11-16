@@ -178,7 +178,6 @@ public final class pnThongKe extends javax.swing.JPanel {
 
         tfDoanhthu.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N
         tfDoanhthu.setForeground(new java.awt.Color(0, 0, 255));
-        tfDoanhthu.setText("Tổng danh thu");
         jPanel3.add(tfDoanhthu);
 
         btExcel.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N

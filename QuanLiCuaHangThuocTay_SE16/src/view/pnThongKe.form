@@ -154,7 +154,6 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="0" red="0" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="T&#x1ed5;ng danh thu"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="btExcel">
